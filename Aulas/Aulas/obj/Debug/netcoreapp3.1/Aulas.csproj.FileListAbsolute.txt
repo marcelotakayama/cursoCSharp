@@ -1,0 +1,13 @@
+C:\Users\marce\Documents\Repositorios\cursoCSharp\Aulas\Aulas\bin\Debug\netcoreapp3.1\Aulas.exe
+C:\Users\marce\Documents\Repositorios\cursoCSharp\Aulas\Aulas\bin\Debug\netcoreapp3.1\Aulas.deps.json
+C:\Users\marce\Documents\Repositorios\cursoCSharp\Aulas\Aulas\bin\Debug\netcoreapp3.1\Aulas.runtimeconfig.json
+C:\Users\marce\Documents\Repositorios\cursoCSharp\Aulas\Aulas\bin\Debug\netcoreapp3.1\Aulas.runtimeconfig.dev.json
+C:\Users\marce\Documents\Repositorios\cursoCSharp\Aulas\Aulas\bin\Debug\netcoreapp3.1\Aulas.dll
+C:\Users\marce\Documents\Repositorios\cursoCSharp\Aulas\Aulas\bin\Debug\netcoreapp3.1\Aulas.pdb
+C:\Users\marce\Documents\Repositorios\cursoCSharp\Aulas\Aulas\obj\Debug\netcoreapp3.1\Aulas.csprojAssemblyReference.cache
+C:\Users\marce\Documents\Repositorios\cursoCSharp\Aulas\Aulas\obj\Debug\netcoreapp3.1\Aulas.csproj.CoreCompileInputs.cache
+C:\Users\marce\Documents\Repositorios\cursoCSharp\Aulas\Aulas\obj\Debug\netcoreapp3.1\Aulas.AssemblyInfoInputs.cache
+C:\Users\marce\Documents\Repositorios\cursoCSharp\Aulas\Aulas\obj\Debug\netcoreapp3.1\Aulas.AssemblyInfo.cs
+C:\Users\marce\Documents\Repositorios\cursoCSharp\Aulas\Aulas\obj\Debug\netcoreapp3.1\Aulas.dll
+C:\Users\marce\Documents\Repositorios\cursoCSharp\Aulas\Aulas\obj\Debug\netcoreapp3.1\Aulas.pdb
+C:\Users\marce\Documents\Repositorios\cursoCSharp\Aulas\Aulas\obj\Debug\netcoreapp3.1\Aulas.genruntimeconfig.cache
